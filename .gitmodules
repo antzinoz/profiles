@@ -1,3 +1,6 @@
 [submodule "rtrouton"]
 	path = rtrouton
 	url = https://github.com/rtrouton/profiles
+[submodule "opragel"]
+	path = opragel
+	url = https://github.com/opragel/profiles
