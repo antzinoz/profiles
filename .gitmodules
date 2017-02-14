@@ -1,0 +1,3 @@
+[submodule "rtrouton"]
+	path = rtrouton
+	url = https://github.com/rtrouton/profiles
