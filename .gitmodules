@@ -4,3 +4,6 @@
 [submodule "opragel"]
 	path = opragel
 	url = https://github.com/opragel/profiles
+[submodule "amsysuk"]
+	path = amsysuk
+	url = https://github.com/amsysuk/public_config_profiles
